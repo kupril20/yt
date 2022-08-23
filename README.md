@@ -41,23 +41,12 @@
   ```
   pip install -r requirements.txt
   ```
-
-* ## Important
-   * If you've got a large free proxies collection, you should run this command to filter Good proxies. Then use **GoodProxy.txt** for proxy in **youtube_viewer.py**
-      ```
-      python proxy_check.py
-      ```
-
-   * After closing program, if chromedrivers are still running. You may want to double click **killdrive.bat** to close all chrome instances.
-
-   * *urls.txt* or *search.txt* can't be empty. Otherwise you will see errors. Use both for better results.
-
-* ## Usage
-   * Open command prompt in YouTube-Viewer folder and run
-        ```
-        python youtube_viewer.py
-        ```
-   * Rest is self explanatory.
+  ```
+  python proxy_check.py
+  ```
+  ```
+  python youtube_viewer.py
+  ```
 
 # Linux / Mac
 * ## Installation
@@ -81,8 +70,7 @@
   pip3 install -r requirements.txt
   ```
 
-* ## Important
-   * If you've got a large free proxies collection, you should run this command to filter Good proxies. Then use **GoodProxy.txt** for proxy in **youtube_viewer.py**
+
         ```
         python3 proxy_check.py
         ```
@@ -98,15 +86,4 @@
         ```
         python3 youtube_viewer.py
         ```
-   * Rest is self explanatory.
- 
- # Best Practices
-  To get the most out of this script you should maintain these things.
-  * Don't use HEADLESS mode. Because no IP leak prevention, fingerprint defending, etc. can be done in headless mode.
-  * Youtube doesn't count views from the same IP after a certain time. Like, don't expect to get 100 views from 10 proxies. If you want more views, try to use a lot of premium proxies(free proxies are flagged by most websites). DO NOT use TOR proxies.
-  * Use both [urls.txt](https://github.com/MShawon/YouTube-Viewer#urls) and [search.txt](https://github.com/MShawon/YouTube-Viewer#search)
-  * And use as many [urls](https://github.com/MShawon/YouTube-Viewer#urls) and [keyword::::title](https://github.com/MShawon/YouTube-Viewer#search) as you can. Don't use just one video.
-
-
-# Credits
- I want to thank all of you who have opened an issue or shared your code snippets or ideas with me! 
+  
