@@ -9,17 +9,6 @@
   <a href="https://github.com/MShawon/YouTube-Viewer/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/MShawon/YouTube-Viewer?color=success"></a>
   <a href="https://github.com/MShawon/YouTube-Viewer/releases/latest"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/MShawon/YouTube-Viewer?color=success"></a>
 </p>
-
-    Yb  dP  dP"Yb  88   88 888888 88   88 88""Yb 888888
-     YbdP  dP   Yb 88   88   88   88   88 88__dP 88__   
-      8P   Yb   dP Y8   8P   88   Y8   8P 88""Yb 88""   
-     dP     YbodP  `YbodP'   88   `YbodP' 88oodP 888888 
-
-                         Yb    dP 88 888888 Yb        dP 888888 88""Yb 
-                          Yb  dP  88 88__    Yb  db  dP  88__   88__dP 
-                           YbdP   88 88""     YbdPYbdP   88""   88"Yb  
-                            YP    88 888888    YP  YP    888888 88  Yb
-
  
 * ## Installation
 
