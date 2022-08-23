@@ -58,11 +58,9 @@
   ```
   pip3 install -r requirements.txt
   ```
-
-
-        ```
-        python3 proxy_check.py
-        ```
+  ```
+  python3 proxy_check.py
+  ```
 
    * After closing program, if chromedrivers are still running. Open your terminal and run 
       ```bash
