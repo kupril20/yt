@@ -9,6 +9,12 @@
   <a href="https://github.com/MShawon/YouTube-Viewer/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/MShawon/YouTube-Viewer?color=success"></a>
   <a href="https://github.com/MShawon/YouTube-Viewer/releases/latest"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/MShawon/YouTube-Viewer?color=success"></a>
 </p>
+
+
+* ## Edit File
+ * search.txt
+ * urls.txt
+
  
 * ## Installation
 
@@ -59,6 +65,9 @@
   pip3 install -r requirements.txt
   ```
   ```
+  python3 youtube_viewer.py
+  ```
+  ```
   python3 proxy_check.py
   ```
 
@@ -66,11 +75,3 @@
       ```bash
       ps aux | awk '/chrome/ { print $2 } ' | xargs kill -9
       ```
-   * *urls.txt* or *search.txt* can't be empty. Otherwise you will see errors. Use both for better results.
-
-* ## Usage
-   * Open command prompt in YouTube-Viewer folder and run
-        ```
-        python3 youtube_viewer.py
-        ```
-  
